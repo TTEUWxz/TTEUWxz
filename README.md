@@ -43,13 +43,6 @@ Descrição: Página temática baseada em One Piece, para praticar HTML, CSS e J
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=TTEUWxz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEUWxz&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Onde me encontrar
 
