@@ -46,7 +46,8 @@ Descrição: Página temática baseada em One Piece, para praticar HTML, CSS e J
 
 ## 🌐 Onde me encontrar
 
-- 💼 **LinkedIn:** [_adicione aqui seu link_](https://www.linkedin.com/in/mateusdev-/)
+- 💼 **LinkedIn:**
+(https://www.linkedin.com/in/mateusdev-/)
 - 📧 **E-mail:** mateusgabrielgm6@gmail.com
 - 🧑‍💻 **GitHub:** [github.com/TTEUWxz](https://github.com/TTEUWxz)
 
